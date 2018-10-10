@@ -1,8 +1,5 @@
-<template>
- 
-    <h1>Navigation</h1>
-   
-  </div>
+<template> 
+   <router-link to=''>Home</router-link>
 </template>
 
 <script>
