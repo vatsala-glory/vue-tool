@@ -1,6 +1,8 @@
 <template> 
   <div>
-    Landing page
+     <div>
+    <h5 class="center-align">BI-Tooling App</h5>
+  </div>
     <tool-btn-1></tool-btn-1>
   </div> 
 </template>

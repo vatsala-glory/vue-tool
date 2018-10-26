@@ -1,6 +1,6 @@
 <template>
-<div>Button
-    <input v-on:click="buttonClicked" type="button" value="Import Excel"/>
+<div>    
+    <input class="waves-effect waves-light btn-large" v-on:click="buttonClicked" type="button" value="Import Excel"/>
 </div>
 </template>
 <script>
