@@ -9,7 +9,8 @@
 import Navigation from './components/common/Navigation.vue'
 export default {
   name: 'app',
-  components:{Navigation}
+  components:{Navigation},
+  directives: {}
 }
 </script>
 
